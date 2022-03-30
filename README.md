@@ -1,1 +1,3 @@
-# notes
+# Notes
+
+Various notes from me.
